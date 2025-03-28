@@ -25,6 +25,7 @@ PaC or Policy as Code is a way to manage and enforce policies in a centralized a
 
 ## Metadata
 
-|Key|Value|
+| Key | Value |
+|-----|-------|
 | # of 1 Hour of Improvement | 5 |
 | Learnt at | 2025-02-14 |
